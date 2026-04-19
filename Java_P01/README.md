@@ -27,8 +27,12 @@ src/roguelike/
 
 cd src/roguelike
 ./gradlew run
+
+
 # или
-./mvnw compile exec:java
+  ./mvnw compile exec:java
+
+
 Цели проекта
 Отработка ООП на Java
 
